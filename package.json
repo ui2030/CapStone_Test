@@ -1,0 +1,32 @@
+{
+  "name": "flower",
+  "version": "1.0.0",
+  "description": "물망초 테마로 디자인된 개인 일기 작성 및 코멘트 추천 웹 애플리케이션",
+  "main": "Myosotis.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ui2030/CapStone_Test.git"
+  },
+  "keywords": [
+    "[\"diary\"",
+    "\"journal\"",
+    "\"myosotis\"",
+    "\"emotional",
+    "analysis\"",
+    "\"AI",
+    "comment",
+    "Generation\"",
+    "\"personal\"",
+    "\"mood",
+    "tracking\"]"
+  ],
+  "author": "\"000 <00000@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ui2030/CapStone_Test/issues"
+  },
+  "homepage": "https://github.com/ui2030/CapStone_Test#readme"
+}
